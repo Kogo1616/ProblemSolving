@@ -22,4 +22,12 @@ Check out my Codeforces profile to see my solutions to various algorithmic probl
 | [0619-biggest-single-number](https://github.com/Kogo1616/ProblemSolving/tree/master/0619-biggest-single-number) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kogo1616/ProblemSolving/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1258-article-views-i](https://github.com/Kogo1616/ProblemSolving/tree/master/1258-article-views-i) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Kogo1616/ProblemSolving/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Kogo1616/ProblemSolving/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
