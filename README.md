@@ -25,9 +25,14 @@ Check out my Codeforces profile to see my solutions to various algorithmic probl
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Kogo1616/ProblemSolving/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Kogo1616/ProblemSolving/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Kogo1616/ProblemSolving/tree/master/1894-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Kogo1616/ProblemSolving/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
