@@ -34,5 +34,22 @@ Check out my Codeforces profile to see my solutions to various algorithmic probl
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kogo1616/ProblemSolving/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Kogo1616/ProblemSolving/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kogo1616/ProblemSolving/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kogo1616/ProblemSolving/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kogo1616/ProblemSolving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kogo1616/ProblemSolving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
